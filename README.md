@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Golang+PHP
 - 🌱 I’m currently learning about AWS
-- 💈 I'm building my photography 📷 📸 portfolio on Unsplash & Pexels
+- 💈 I'm building my photography 📷 📸 portfolio on [Unsplash](https://unsplash.com/computingfreak) & [Pexels](https://pexels.com/computingfreak)
 - 🚧 I'm compiling a list of books 📚 to read and movies 🎥 📽 to watch & songs 🎵 🎶 to listen to
 - 🧿 I use 💻 📱 ⌚️ 🖨 ⌨️ 🖱 🎛
 - 🚁 I hope to learn flying a helicopter one day
