@@ -9,7 +9,7 @@
 - 🚁 I hope to learn how to fly a helicopter/aeroplane ✈️
 - 👯 I’m looking to collaborate on websites related to migration, expats, lifestyle, food, travel, visa, languages, finance, investments, music
 - 🤔 I’m looking for help with web-scrapers, web-hosting, web-blog, automation for photo-editing, video-upload, audio-mixing
-- 💬 Ask me about 🍱, 🇯🇵, 🗼, 🗻, ⛩, Tokyo, Japan, Travel, Flights, Aviation, Jeju, Fiji, Bali, Hong Kong, Singapore, Dubai, Istanbul, New Zealand
+- 💬 Ask me about 🍱, 🇯🇵, 🗼, 🗻, ⛩, Tokyo, Japan, Travel, Flights, Aviation, Jeju, Fiji, Bali, Bangkok, Hong Kong, Singapore, Dubai, Istanbul, New Zealand
 - 📫 How to reach me: Check https://about.me/computingfreak
 - ⚡ Fun fact: 🗾 Japanese maps put Japan at the centre of the world 🗺
 
