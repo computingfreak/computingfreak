@@ -2,7 +2,7 @@
 
 - 🔭 I work remotely & help people plan travel itineraries.
 - 🌱 I enjoy programming in Java, Kotlin, Golang, Python, Ruby, sometimes PHP.
-- ̨📲 I have built Android (both Java & Kotlin) & iOS (both Objective-C & Swift) apps in the past & used React & D3 for dashboards.
+- ̨📲 I have built Android (both Java & Kotlin) & iOS (both Objective-C & Swift) apps in the past & used React & D3 for BI dashboards.
 - 💈 I'm building my photography 📷 📸 portfolio on [Unsplash](https://unsplash.com/@computingfreak) & [Pexels](https://pexels.com/@computingfreak)
 - 🚧 I'm compiling a list of books 📚 to read and movies 🎥 📽 to watch & songs 🎵 🎶 to listen to
 - 🧿 I use 💻 📱 ⌚️ 🖨 ⌨️ 🖱 🎛
