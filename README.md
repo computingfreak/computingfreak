@@ -14,4 +14,5 @@
 - 📫 How to reach me: Check https://about.me/computingfreak
 - 🤝 How to help me: https://buymeacoffee.com/computingfreak
 - ⚡ Fun fact: 🗾 Japanese maps put Japan at the centre of the world 🗺
+- 🎮 Play Mario at [SuperMarioEmulator](https://supermarioemulator.com/mario.php)
 
